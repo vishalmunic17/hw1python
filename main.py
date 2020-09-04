@@ -28,7 +28,7 @@ elif CourseOne == "D":
     CourseOne = float(1.0)
 else:
     print("Grade point for course 1 is: 0")
-    CourseOne = float(0)
+    CourseOne = float(0.0)
 
 CourseTwo = input("Enter your course 2 letter grade: ")
 TwoCredit = float(input("Enter your course 2 credit: "))
@@ -50,7 +50,7 @@ elif CourseTwo == "B-":
 elif CourseTwo == "C+":
     print("Grade point for course 2 is: 2.33")
     CourseTwo = float(2.33)
-elif CourseOne == "C":
+elif CourseTwo == "C":
     print("Grade point for Course 2 is: 2.0")
     CourseTwo = float(2.0)
 elif CourseTwo == "D": 
@@ -58,7 +58,7 @@ elif CourseTwo == "D":
     CourseTwo = float(1.0)
 else:
     print("Grade point for course 2 is: 0")
-    CourseTwo = float(0)
+    CourseTwo = float(0.0)
 
 CourseThree = input("Enter your course 3 letter grade: ")
 ThreeCredit = float(input("Enter your course 3 credit: "))
@@ -88,7 +88,7 @@ elif CourseThree == "D":
     CourseThree = float(1.0)
 else:
     print("Grade point for course 3 is: 0")
-    CourseThree = float(0)
+    CourseThree = float(0.0)
 
 
 GpaTotal = (((CourseOne * OneCredit) + (CourseTwo * TwoCredit) + (CourseThree * ThreeCredit)) / (OneCredit + TwoCredit + ThreeCredit))
