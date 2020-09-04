@@ -21,7 +21,7 @@ elif CourseOne == "C+":
     print("Grade point for course 1 is: 2.33")
     CourseOne = float(2.33)
 elif CourseOne == "C":
-    print("Grade point for Course 1 is: 2.0")
+    print("Grade point for course 1 is: 2.0")
     CourseOne = float(2.0)
 elif CourseOne == "D": 
     print("Grade point for course 1 is: 1.0")
@@ -51,7 +51,7 @@ elif CourseTwo == "C+":
     print("Grade point for course 2 is: 2.33")
     CourseTwo = float(2.33)
 elif CourseTwo == "C":
-    print("Grade point for Course 2 is: 2.0")
+    print("Grade point for course 2 is: 2.0")
     CourseTwo = float(2.0)
 elif CourseTwo == "D": 
     print("Grade point for course 2 is: 1.0")
@@ -81,7 +81,7 @@ elif CourseThree == "C+":
     print("Grade point for course 3 is: 2.33")
     CourseThree = float(2.33)
 elif CourseThree == "C":
-    print("Grade point for Course 3 is: 2.0")
+    print("Grade point for course 3 is: 2.0")
     CourseThree = float(2.0)
 elif CourseThree == "D": 
     print("Grade point for course 3 is: 1.0")
