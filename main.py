@@ -80,9 +80,9 @@ elif CourseThree == "B-":
 elif CourseThree == "C+":
     print("Grade point for course 3 is: 2.33")
     CourseThree = float(2.33)
-elif CourseOne == "C":
+elif CourseThree == "C":
     print("Grade point for Course 3 is: 2.0")
-    CourseOne = float(2.0)
+    CourseThree = float(2.0)
 elif CourseThree == "D": 
     print("Grade point for course 3 is: 1.0")
     CourseThree = float(1.0)
