@@ -27,7 +27,7 @@ elif CourseOne == "D":
     print("Grade point for course 1 is: 1.0")
     CourseOne = float(1.0)
 else:
-    print("Grade point for course 1 is: 0")
+    print("Grade point for course 1 is: 0.0")
     CourseOne = float(0.0)
 
 CourseTwo = input("Enter your course 2 letter grade: ")
@@ -57,7 +57,7 @@ elif CourseTwo == "D":
     print("Grade point for course 2 is: 1.0")
     CourseTwo = float(1.0)
 else:
-    print("Grade point for course 2 is: 0")
+    print("Grade point for course 2 is: 0.0")
     CourseTwo = float(0.0)
 
 CourseThree = input("Enter your course 3 letter grade: ")
@@ -87,7 +87,7 @@ elif CourseThree == "D":
     print("Grade point for course 3 is: 1.0")
     CourseThree = float(1.0)
 else:
-    print("Grade point for course 3 is: 0")
+    print("Grade point for course 3 is: 0.0")
     CourseThree = float(0.0)
 
 
