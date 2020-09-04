@@ -11,7 +11,7 @@ elif CourseOne == "A-":
 elif CourseOne == "B+":
     CourseOne = float(3.33)
     print("Grade point for course 1 is: 3.33")
-elif CourseOne == "B" or "b":
+elif CourseOne == "B":
     print("Grade point for course 1 is: 3.0")
     CourseOne = float(3.0)
 elif CourseOne == "B-":
