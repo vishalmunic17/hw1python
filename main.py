@@ -52,7 +52,7 @@ elif CourseTwo == "C+":
     CourseTwo = float(2.33)
 elif CourseOne == "C":
     print("Grade point for Course 2 is: 2.0")
-    CourseOne = float(2.0)
+    CourseTwo = float(2.0)
 elif CourseTwo == "D": 
     print("Grade point for course 2 is: 1.0")
     CourseTwo = float(1.0)
